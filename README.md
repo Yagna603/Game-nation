@@ -1,16 +1,9 @@
-# gamify_app
+# Game Nation
 
-A new Flutter project.
+A simple Flutter based Application.
 
-## Getting Started
+## Some of the screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot from 2023-06-04 00-26-28](https://github.com/Yagna603/Game-nation/assets/84460990/99b52b32-08c0-4e4a-9178-7e3a7daf6642)
+![Screenshot from 2023-06-04 00-33-28](https://github.com/Yagna603/Game-nation/assets/84460990/ffc6c9d6-9d05-438c-94eb-a017ea8be3e3)
+![Screenshot from 2023-06-04 00-33-40](https://github.com/Yagna603/Game-nation/assets/84460990/d3474d2a-6a05-4a38-a053-12eb0c4a3a3e)
